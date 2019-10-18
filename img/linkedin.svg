@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>social/linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-10.0%" y="-9.4%" width="120.0%" height="118.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Profile-card-page" transform="translate(-685.000000, -670.000000)" fill="#2D354C">
+            <g id="card" filter="url(#filter-1)" transform="translate(471.000000, 217.000000)">
+                <g id="social-media" transform="translate(59.000000, 473.000000)">
+                    <g id="social/linkedin" transform="translate(177.000000, 0.000000)">
+                        <path d="M22.0099,2 L3.99008,2 C2.891,2 2,2.891 2,3.99008 L2,22.0099 C2,23.109 2.891,24 3.99008,24 L22.0099,24 C23.109,24 24,23.109 24,22.0099 L24,3.99008 C24,2.891 23.109,2 22.0099,2 Z M8.80773,20.9963 C8.80773,21.3161 8.54846,21.5754 8.22859,21.5754 L5.76332,21.5754 C5.44346,21.5754 5.18418,21.3161 5.18418,20.9963 L5.18418,10.66195 C5.18418,10.34209 5.44346,10.08281 5.76332,10.08281 L8.22859,10.08281 C8.54846,10.08281 8.80773,10.34209 8.80773,10.66195 L8.80773,20.9963 Z M6.99596,9.10865 C5.70251,9.10865 4.65394,8.06008 4.65394,6.76663 C4.65394,5.47318 5.70251,4.42461 6.99596,4.42461 C8.28941,4.42461 9.33798,5.47318 9.33798,6.76663 C9.33798,8.06008 8.28947,9.10865 6.99596,9.10865 Z M21.6912016,21.0429 C21.6912016,21.337 21.4527,21.5754 21.1587,21.5754 L18.5132,21.5754 C18.2192,21.5754 17.9808,21.337 17.9808,21.0429 L17.9808,16.1955 C17.9808,15.4724 18.1929,13.0268 16.091,13.0268 C14.4606,13.0268 14.1299,14.7007 14.0635,15.452 L14.0635,21.0429 C14.0635,21.337 13.8252,21.5754 13.5311,21.5754 L10.97249,21.5754 C10.67842,21.5754 10.43999,21.337 10.43999,21.0429 L10.43999,10.6153 C10.43999,10.32124 10.67842,10.08281 10.97249,10.08281 L13.5311,10.08281 C13.8251,10.08281 14.0635,10.32124 14.0635,10.6153 L14.0635,11.5169 C14.6681,10.60966 15.5665,9.9094 17.4794,9.9094 C21.7154,9.9094 21.6912016,13.8669 21.6912016,16.0413 L21.6912016,21.0429 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
